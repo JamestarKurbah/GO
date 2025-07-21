@@ -6,4 +6,5 @@
 --Exercise 4 Return a random greeting
 --Exercise 5 Return greetings for multiple people
 --Exercise 6 Add a test
+--Variable and Constant
 ```
